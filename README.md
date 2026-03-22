@@ -1,5 +1,16 @@
 # OpenClaw Portable Kit
 
+> Status: compatibility / distribution repo.
+> Canonical source-of-truth moved to `openclaw-self-bootstrap`.
+> New workflows, operating decisions, and durable guidance should be added there first.
+> Portable assets are also maintained under `openclaw-self-bootstrap/portable/`.
+>
+> Canonical repo:
+> <https://github.com/jimmylegendary/openclaw-self-bootstrap>
+>
+> Portable subtree in canonical repo:
+> <https://github.com/jimmylegendary/openclaw-self-bootstrap/tree/main/portable>
+
 다른 OpenClaw 환경에 옮겨 설치할 수 있게 정리한 포터블 번들이다.
 
 포함 내용:
